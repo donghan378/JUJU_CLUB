@@ -117,26 +117,27 @@
   <br>
   <img width="400" height="215" alt="주주클럽 시연영상3" src="https://github.com/user-attachments/assets/b5ea218c-5351-4d68-9786-872baff7aa65" />
   <br>
-  <img width="400" height="215" alt="주주클럽 시연영상4" src="https://github.com/user-attachments/assets/6c5e094c-8cf4-4383-bffd-dc6bfb0cd1f3" />
+  <img width="800" height="430" alt="주주클럽-시연영상4" src="https://github.com/user-attachments/assets/e91baad7-948a-46a6-b8f0-aa5a5e8d9b72" />
+
 </div>
 
 #### **챕터테스트**
 <div align="center">
-  <img width="400" height="215" alt="주주클럽 시연영상5" src="https://github.com/user-attachments/assets/eef19ce1-8c6a-4a20-b974-f7e5c6ff07a2" />
+  <img width="800" height="430" alt="주주클럽-시연영상5" src="https://github.com/user-attachments/assets/3cd44d8d-4601-4b61-a295-bb941b1e5d31" />
   <br>
-  <img width="400" height="215" alt="주주클럽 시연영상6" src="https://github.com/user-attachments/assets/5a18149a-7c08-4732-8557-d03951f4328d" />
+  <img width="800" height="430" alt="주주클럽-시연영상6" src="https://github.com/user-attachments/assets/9fed4263-7411-43d3-9a0b-21e0c6ce0b57" />
 </div>
 
 ### **3.모의투자**
 
 #### **마이**
 <div align="center">
-  <img width="400" height="215" alt="주주클럽 시연영상7" src="https://github.com/user-attachments/assets/819eb2e1-6e03-4428-943f-7bd8b8eaae00" />
+  <img width="800" height="430" alt="주주클럽-시연영상7" src="https://github.com/user-attachments/assets/605c38ca-cb50-4fd4-88f8-44fa67e3a2a0" />
 </div>
 
 #### **투자**
 <div align="center">
-  <img width="400" height="215" alt="주주클럽 시연영상8" src="https://github.com/user-attachments/assets/1b71c2c0-c051-4155-ab30-43bef1a35bbd" />
+  <img width="800" height="430" alt="주주클럽-시연영상8" src="https://github.com/user-attachments/assets/8fe7fd44-361d-42c8-b1a8-8f7a6ed633df" />
   <br>
   <img width="400" height="215" alt="주주클럽 시연영상9" src="https://github.com/user-attachments/assets/6d946b2f-b617-4738-8b54-a204d9fbde65" />
   <br>
@@ -145,12 +146,12 @@
 
 #### **거래내역**
 <div align="center">
-  
+  <img width="800" height="430" alt="주주클럽-시연영상11" src="https://github.com/user-attachments/assets/49f47032-6f28-421a-9854-b49c503d332f" />
 </div>
 
 ### **4.랭킹**
 <div align="center">
-  
+  <img width="800" height="430" alt="주주클럽-시연영상12" src="https://github.com/user-attachments/assets/4da2fc7f-4e57-46ac-89b7-8995b2589159" />
 </div>
 
 ### **5.마이페이지**
