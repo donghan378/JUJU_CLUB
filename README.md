@@ -1,6 +1,9 @@
 # 🧚JUJUCLUB
 주식 초보자들의 가이드
 
+## ✍️ 참고 URL
+- **참고 ppt** : https://drive.google.com/file/d/1LOJcXcKtK8w8ZyukTA8FfkSmPYctqYtr/view?usp=drive_link
+- **시연 영상** : https://drive.google.com/file/d/1ISxByY-mfAad4kiv-5G2xiBdTy4WX4Ew/view?usp=drive_link
 
 ## ✍️ 프로젝트 개요
 
