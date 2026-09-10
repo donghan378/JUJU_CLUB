@@ -108,7 +108,7 @@
 
 #### **로드맵**
 <div align="center">
-  <img width="400" height="215" alt="주주클럽 시연영상1" src="https://github.com/user-attachments/assets/7a2f6ab0-32b7-448c-baf6-38e8ae7ef461" />
+  <img width="800" height="430" alt="주주클럽 시연영상1" src="https://github.com/user-attachments/assets/7a2f6ab0-32b7-448c-baf6-38e8ae7ef461" />
 </div>
 
 #### **레슨**
