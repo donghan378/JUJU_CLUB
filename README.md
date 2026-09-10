@@ -140,7 +140,7 @@
   <br>
   <img width="400" height="215" alt="주주클럽 시연영상9" src="https://github.com/user-attachments/assets/6d946b2f-b617-4738-8b54-a204d9fbde65" />
   <br>
-  <img width="252" height="136" alt="Adobe Express - 주주클럽 시연영상1" src="https://github.com/user-attachments/assets/3ebe4bda-0ed9-4cd8-9bff-bb529f1ac44c" />
+  <img width="400" height="215" alt="Adobe Express - 주주클럽 시연영상1" src="https://github.com/user-attachments/assets/3ebe4bda-0ed9-4cd8-9bff-bb529f1ac44c" />
 </div>
 
 #### **거래내역**
