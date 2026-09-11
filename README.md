@@ -139,7 +139,7 @@
 <div align="center">
   <img width="800" height="430" alt="주주클럽-시연영상8" src="https://github.com/user-attachments/assets/8fe7fd44-361d-42c8-b1a8-8f7a6ed633df" />
   <br>
-  <img width="400" height="215" alt="주주클럽 시연영상9" src="https://github.com/user-attachments/assets/6d946b2f-b617-4738-8b54-a204d9fbde65" />
+  <img width="800" height="430" alt="주주클럽-시연영상9" src="https://github.com/user-attachments/assets/512a7303-7f93-4665-95f3-10dba50447e1" />
   <br>
   <img width="800" height="430" alt="주주클럽-시연영상1" src="https://github.com/user-attachments/assets/794cb0f0-2b28-480b-8ca9-566f52990137" />
 </div>
@@ -156,7 +156,7 @@
 
 ### **5.마이페이지**
 <div align="center">
-  
+  <img width="800" height="430" alt="주주클럽-시연영상13" src="https://github.com/user-attachments/assets/ef67b425-9a79-4170-addd-7f288e685ec7" />
 </div>
 
 
