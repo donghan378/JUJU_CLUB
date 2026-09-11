@@ -108,14 +108,14 @@
 
 #### **로드맵**
 <div align="center">
-  <img width="800" height="430" alt="주주클럽 시연영상1" src="https://github.com/user-attachments/assets/7a2f6ab0-32b7-448c-baf6-38e8ae7ef461" />
+  <img width="800" height="430" alt="주주클럽-시연영상1" src="https://github.com/user-attachments/assets/8971a963-daf6-44d4-a8af-af37fbcade07" />
 </div>
 
 #### **레슨**
 <div align="center">
-  <img width="400" height="215" alt="주주클럽 시연영상2" src="https://github.com/user-attachments/assets/2f518e29-f853-42b7-abfc-0970c0400b61" />
+  <img width="800" height="430" alt="주주클럽-시연영상2" src="https://github.com/user-attachments/assets/cb804b15-280c-477c-9f05-ef102059d912" />
   <br>
-  <img width="400" height="215" alt="주주클럽 시연영상3" src="https://github.com/user-attachments/assets/b5ea218c-5351-4d68-9786-872baff7aa65" />
+  <img width="800" height="430" alt="주주클럽-시연영상3" src="https://github.com/user-attachments/assets/23dcb0a3-5e71-467f-b2f1-3b0193fa3582" />
   <br>
   <img width="800" height="430" alt="주주클럽-시연영상4" src="https://github.com/user-attachments/assets/e91baad7-948a-46a6-b8f0-aa5a5e8d9b72" />
 
